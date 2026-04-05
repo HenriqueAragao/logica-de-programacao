@@ -24,6 +24,22 @@ A partir do exercício 17, migrei para o **Python 3.12**, focando em **Condiçõ
 - **Exer 24:** Cálculo de preço de passagem por distância.
 - **Exer 25:** Desafio: Verificação de existência de triângulos.
 
+## 🐍 Fase 3: Condições Compostas (Exercícios 26 ao 37)
+Nesta etapa, avancei para estruturas de decisão mais complexas utilizando `if/elif/else`, explorando operadores lógicos e validações múltiplas.
+
+* **Exer 26:** Comparação de valores numéricos (Maior, menor ou igual).
+* **Exer 27:** Cálculo de média com status (Aprovado, Recuperação ou Reprovado).
+* **Exer 28:** Classificação de terrenos por área ($m^2$).
+* **Exer 29:** Reajuste salarial baseado em tempo de empresa.
+* **Exer 30:** [Desafio] Classificação de triângulos (Equilátero, Isósceles ou Escaleno).
+* **Exer 31:** [Desafio] Jogo de JoKenPo (Pedra, Papel e Tesoura).
+* **Exer 32:** [Desafio] Jogo de adivinhação de números.
+* **Exer 33:** Sistema de aprovação de empréstimo bancário.
+* **Exer 34:** Cálculo de IMC e classificação de faixa de peso.
+* **Exer 35:** Aluguel de carros (Popular vs Luxo) com preços por Km.
+* **Exer 36:** Sistema de pontos e recompensas por atividade física.
+* **Exer 37:** Reajuste salarial diferenciado por gênero e tempo de serviço.
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
